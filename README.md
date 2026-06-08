@@ -222,4 +222,4 @@ curl -fsSL https://raw.githubusercontent.com/YOUR_USER/rn-expo-skill/main/instal
 
 ## License
 
-MIT © YOUR_NAME
+Apache License 2.0 
